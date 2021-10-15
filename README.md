@@ -1,5 +1,7 @@
 # Augmented_matrix
 
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
+
 ## Info
 This function coputes the augmented matrix as described by the work of Brunton et al 2016[^1] Agumented matrices are computed as a previus step for Dynamic Mode Decomposition (DMD). Typically, in DMD analysis the number of snapshots in time (m) are much less, than the number of sites (n) measured in the dynamic system (n>>m). In other cases, such as biology, we have the opposite (n<<m).To mitigate this we use the augmented matrix procedure.
 
